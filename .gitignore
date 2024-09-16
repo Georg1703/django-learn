@@ -1,4 +1,5 @@
 env/
 .env
 *.pyc
- 
+# Ignore SQLite database files
+db.sqlite3
